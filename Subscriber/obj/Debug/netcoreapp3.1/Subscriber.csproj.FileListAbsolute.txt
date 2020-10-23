@@ -1,0 +1,17 @@
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+D:\Univer-IV\PAD\Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CoreCompileInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+D:\Univer-IV\PAD\Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache

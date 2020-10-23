@@ -1,0 +1,17 @@
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.exe
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.deps.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.dev.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csprojAssemblyReference.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfoInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfo.cs
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CopyComplete
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.genruntimeconfig.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CoreCompileInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

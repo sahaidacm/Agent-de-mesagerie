@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kg30hl1yc06aqdkeBbDSBsBGf3RDFo/Y0cb/PxsFRbErg5KbX/FrzIhyyKzCKD3gU+iLOoG2xuJ6FNFC9xMDHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Univer-IV\\PAD\\Mesagerie\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

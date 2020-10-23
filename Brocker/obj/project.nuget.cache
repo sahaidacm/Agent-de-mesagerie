@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rd18LgnKgIfY8JeWjUnZZqFwZydrSItE5KBQv1+auP3/XNRmjAUaZjrHTihdB4rJD66gNL7Hsn0Z3KtPcVFRIg==",
+  "success": true,
+  "projectFilePath": "D:\\Univer-IV\\PAD\\Mesagerie\\Brocker\\Brocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
